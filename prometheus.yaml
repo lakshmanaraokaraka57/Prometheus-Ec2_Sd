@@ -16,6 +16,7 @@ rule_files:
    - "alert-rules/*.yml"
   
 
+  
 # A scrape configuration containing multiple endpoints to scrape
 scrape_configs:
   # Scrape Prometheus itself
